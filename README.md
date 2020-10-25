@@ -17,12 +17,18 @@
   <img align="left" alt="Basma's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
+
+My name is Basma Ashour, I am currently a Software Engineer in Koinz, I love building stuff from scratch and doing competitive programming. When I am not coding, I enjoy 📝 making life plans, 📔 reading comics books, 🚲 cycling, 🎹 playing piano, 🎧 and discovering new \m/etal bands.
+  <img align="right" alt="IMG" src="https://github.com/basmaashouur/basmaashouur/blob/main/EdEYS7NWAAA3K1t.jpeg" width="500" height="350" />
+
 <br/>
 
-My name is Basma Ashour, I am currenttly a Software Engineer in Koinz, I enjoy reading comics books, cycling and discovering new \m/etal bands.
-  <img align="right" alt="IMG" src="https://github.com/basmaashouur/basmaashouur/blob/main/EdEYS7NWAAA3K1t.jpeg" width="500" height="500" />
+**Talking about Personal Stuffs:**
 
-<br/>
+- 👨🏽‍💻 I’m currently working on ;
+- 🌱 I’m currently learning GraphQL and C++; 
+- 📫 How to reach me: [@abhisheknaiidu](https://twitter.com/abhisheknaiidu);
+- 📝[Resume](https://drive.google.com/file/d/10GKdScol1BXsMQmSVO30rswZ8lqkakmy/view)
 
 ## [My GitHub Stats](https://github.com/anuraghazra/github-readme-stats)
 
