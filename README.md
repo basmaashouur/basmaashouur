@@ -17,16 +17,28 @@
   <img align="left" alt="Basma's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
-<br/>
-My name is Basma Ashour, I am currently a Software Engineer in Koinz, I love building stuff from scratch and doing competitive programming. When I am not coding, I enjoy 📝 making life plans, 📔 reading comics books, 🚲 cycling, 🎹 playing piano, 🎧 and discovering new \m/etal bands.
+<br/> <br/>
+
+My name is Basma Ashour, I am a Software Engineer at [Koinz](https://www.koinz.app/#/), I love building stuff from scratch and doing competitive programming. When I am not coding, I enjoy 📝 making life plans, 📔 reading comics books, 🚲 cycling, 🎹 playing piano, 🎧 and discovering new \m/etal bands.
 
 <br/>
 
-**Talking about Personal Stuff:**
+## Talking about Personal Stuff
 
-- 💻 I’m currently working on 
-- 🌱 I’m currently learning System Adm; 
+- 💻 I’m currently working on ehancing my Software Engineering skills;
+- 🌱 I’m currently learning Reliability Engineering; 
 - 📫 How to reach me: [@basmaashouur](https://twitter.com/basmaashouur);
+
+
+## Work and Tools
+[<img width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png">]()
+[<img width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png">]()
+[<img width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">]()
+[<img width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png">]()
+[<img width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">]()
+[<img width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png">]()
+[<img width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">]()
+
 
 ## [My GitHub Stats](https://github.com/anuraghazra/github-readme-stats)
 
