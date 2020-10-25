@@ -17,6 +17,9 @@
   <img align="left" alt="Basma's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
+<br/>
+<br/>
+
 
 My name is Basma Ashour, I am a Software Engineer at [Koinz](https://www.koinz.app/#/), I love building stuff from scratch and doing competitive programming. When I am not coding, I enjoy 📝 making life plans, 📔 reading comics books, 🚲 cycling, 🎹 playing piano, 🎧 and discovering new \m/etal bands.
 
@@ -38,6 +41,8 @@ My name is Basma Ashour, I am a Software Engineer at [Koinz](https://www.koinz.a
 [<img align="left" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">]()
 [<img align="left" width="30px" src="https://blog.novatec-gmbh.de/wp-content/uploads/2013/07/logo-git.png">]()
 [<img align="left" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png">]()
+
+<br/>
 
 - Currently I am focusing on Backend technology including APIs, micro-services and how to build software using best practices, beside that I also like to expand my knowledge in Linux, Shell and Technical Writing.
 
