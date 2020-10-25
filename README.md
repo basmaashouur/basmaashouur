@@ -41,13 +41,14 @@ My name is Basma Ashour, I am a Software Engineer at [Koinz](https://www.koinz.a
 [<img align="left" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">]()
 [<img align="left" width="30px" src="https://blog.novatec-gmbh.de/wp-content/uploads/2013/07/logo-git.png">]()
 [<img align="left" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png">]()
+[<img align="left" width="30px" src="https://raw.githubusercontent.com/odb/official-bash-logo/master/assets/Logos/Icons/PNG/128x128.png">]()
 
 <br/></br>
 
 
-- Currently I am focusing on Backend technology including APIs, micro-services and how to build software using best practices, beside that I also like to expand my knowledge in Linux, Shell and Technical Writing.
+- Currently I am focusing on Backend technology including APIs, micro-services, and how to build a software using best practices, beside that I also like to expand my knowledge in Linux, IT support related stuff and Technical Writing.
 
-**Here is some of my projects that I really enjoyed my time doing them:**
+**Some of my projects that I've enjoyed my time working on them:**
 - [Competitive Programming](https://github.com/basmaashouur/competitive-programming) in your Pocket.
 - [A Geometry Toolkit](https://github.com/basmaashouur/computational-geometry-library) for Competitive Programming.
 - [Udacity Full-Stack Web Developer](https://github.com/basmaashouur/full-stack-udacity) Projects Work.
@@ -55,7 +56,7 @@ My name is Basma Ashour, I am a Software Engineer at [Koinz](https://www.koinz.a
 ## [My GitHub Stats](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![basmaashouur's github stats](https://github-readme-stats.vercel.app/api?username=basmaashouur&hide=stars&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true)](https://github.com/basmaashouur?tab=repositories) 
+[![basmaashouur's github stats](https://github-readme-stats.vercel.app/api?username=basmaashouur&hide=stars&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)](https://github.com/basmaashouur?tab=repositories) 
 <br/> 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=basmaashouur&langs_count=6&layout=compact&theme=material-palenight)](https://github.com/basmaashouur?tab=repositories)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=basmaashouur&langs_count=6&layout=compact&theme=dracula)](https://github.com/basmaashouur?tab=repositories)
 
