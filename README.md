@@ -42,11 +42,12 @@ My name is Basma Ashour, I am a Software Engineer at [Koinz](https://www.koinz.a
 [<img align="left" width="30px" src="https://blog.novatec-gmbh.de/wp-content/uploads/2013/07/logo-git.png">]()
 [<img align="left" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png">]()
 
-<br/>
+<br/></br>
+
 
 - Currently I am focusing on Backend technology including APIs, micro-services and how to build software using best practices, beside that I also like to expand my knowledge in Linux, Shell and Technical Writing.
 
-Here is some of my projects that I really enjoy my time doing them:
+**Here is some of my projects that I really enjoyed my time doing them:**
 - [Competitive Programming](https://github.com/basmaashouur/competitive-programming) in your Pocket.
 - [A Geometry Toolkit](https://github.com/basmaashouur/computational-geometry-library) for Competitive Programming.
 - [Udacity Full-Stack Web Developer](https://github.com/basmaashouur/full-stack-udacity) Projects Work.
