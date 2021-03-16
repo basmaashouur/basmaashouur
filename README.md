@@ -21,7 +21,7 @@
 <br/>
 
 
-My name is Basma Ashour, I am a Software Engineer at [Koinz](https://www.koinz.app/#/), I love building stuff from scratch and doing competitive programming. When I am not coding, I enjoy 📝 making life plans, 📔 reading comics books, 🚲 cycling, 🎹 playing piano, 🎧 and discovering new \m/etal bands.
+My name is Basma Ashour, I am a Software Engineer at [Koinz](https://techcrunch.com/2021/03/08/egypts-customer-engagement-platform-for-fb-brands-in-mena-koinz-raises-4-8m-seed/), I love building stuff from scratch and doing competitive programming. When I am not coding, I enjoy 📝 making life plans, 📔 reading comics books, 🚲 cycling, 🎹 playing piano, 🎧 and discovering new \m/etal bands.
 
 <br/>
 
