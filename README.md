@@ -13,7 +13,7 @@ My name is Basma Ashour, I am pursuing a Master's degree in Computer Science and
 
 - 💻 I’m currently working on ehancing my Software Engineering skills;
 - 🌱 I’m currently learning Reliability Engineering; 
-- 📫 How to reach me: [@basmaashouur](https://www.linkedin.com/in/basmaashouur/);
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/basmaashouur/);
 
 
 ## Work and Tools
